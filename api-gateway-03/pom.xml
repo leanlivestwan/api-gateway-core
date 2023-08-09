@@ -7,14 +7,16 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>api-gateway-02</artifactId>
+    <artifactId>api-gateway-03</artifactId>
     <packaging>jar</packaging>
 
-    <name>api-gateway-02</name>
+    <name>api-gateway-03</name>
     <url>http://maven.apache.org</url>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
     <dependencies>
         <dependency>
             <groupId>io.netty</groupId>

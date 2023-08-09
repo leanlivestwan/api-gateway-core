@@ -5,22 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/api-gateway-03/pom.xml" />
       </list>
     </option>
-=======
-        <option value="$PROJECT_DIR$/api-gateway-test-provider-master/api-gateway-test-provider-rpc/pom.xml" />
-        <option value="$PROJECT_DIR$/api-gateway-test-provider-master/api-gateway-test-provider-interfaces/pom.xml" />
-      </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/api-gateway-test-provider-interfaces/pom.xml" />
-        <option value="$PROJECT_DIR$/api-gateway-test-provider-master/pom.xml" />
-        <option value="$PROJECT_DIR$/api-gateway-test-provider-rpc/pom.xml" />
-      </set>
-    </option>
->>>>>>> af497d5 (Initial commit)
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
