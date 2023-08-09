@@ -3,6 +3,21 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/api-gateway-01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/api-gateway-01/src/main/resources" charset="UTF-8" />
+<<<<<<< HEAD
+=======
+    <file url="file://$PROJECT_DIR$/api-gateway-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway-02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway-test-provider-interfaces/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway-test-provider-interfaces/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway-test-provider-master/api-gateway-test-provider-interfaces/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway-test-provider-master/api-gateway-test-provider-interfaces/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway-test-provider-master/api-gateway-test-provider-rpc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway-test-provider-master/api-gateway-test-provider-rpc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway-test-provider-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway-test-provider-master/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway-test-provider-rpc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway-test-provider-rpc/src/main/resources" charset="UTF-8" />
+>>>>>>> af497d5 (Initial commit)
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
