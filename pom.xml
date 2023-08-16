@@ -11,6 +11,8 @@
   <modules>
     <module>api-gateway-01</module>
       <module>api-gateway-02</module>
+      <module>api-gateway-04</module>
+      <module>api-gateway-05</module>
   </modules>
 >>>>>>> af497d5 (Initial commit)
 
